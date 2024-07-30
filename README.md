@@ -13,13 +13,10 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 
 [![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/msilucifer/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
-[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 
 [![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/msilucifer/)
 
@@ -46,7 +43,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/msilucifer/)
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/msilucifer/)
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/msilucifer/)
-[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/msilucifer/)
 <br />
 
 --- 
@@ -55,7 +51,7 @@
 
 <img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=msilucifer&show_icons=true&hide_border=false&theme=radical&count_private=true" /><br /><br />
 
-[github]: https://github.com/msilucifer/
+[github]: https://github.com/vinod102x/
 
 <!---
 msilucifer/msilucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
