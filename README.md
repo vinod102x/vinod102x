@@ -4,7 +4,7 @@
 - 🌱 Focusing on crypto casino game
 - 💞️ Looking to collaborate on AI & ML
 
-### Languages and Tools:
+### Languages & Framework
 
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/vinod102x/)](https://github.com/vinod102x/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/vinod102x/)](https://github.com/vinod102x/)
